@@ -25,4 +25,11 @@ export const projects = [
     screenshotLabel: "Markdown Previewer"
   }
 ];
-export const skills = ["JavaScript", "ES6", "React", "HTML5", "CSS3"];
+export const skills = [
+  "JavaScript",
+  "ES6",
+  "React",
+  "HTML5",
+  "CSS3",
+  "Bootstrap"
+];

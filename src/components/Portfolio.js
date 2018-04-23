@@ -22,7 +22,7 @@ const Portfolio = () => {
   return (
     <div id="portfolio" className="card">
       <div className="card-title">
-        <h2>PORTFOLIO</h2>
+        <h2>React Projects</h2>
       </div>
       <div className="projects">{projectSet}</div>
     </div>
