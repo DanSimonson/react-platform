@@ -1,5 +1,17 @@
 export const projects = [
   {
+    id: 3,
+    title: "Recipe Box",
+    description:
+      "Vue.js CRUD (create, read, update, delete) application using firestore cloud database",
+    goal: "User can create, edit, delete and save recipes",
+    technologies: ["Vue", "Firestore", "MaterializeCSS", "JavaScript"],
+    href: "https://recipes-ddb43.firebaseapp.com/#/",
+    screenshotLink:
+      "https://res.cloudinary.com/dmglopmul/image/upload/v1527091789/recipeBox.jpg",
+    screenshotLabel: "Recipe Box"
+  },
+  {
     id: 2,
     title: "Camper Leaderboard",
     description: "Free Code Camp React Project",
